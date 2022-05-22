@@ -7,7 +7,7 @@
 
 
 **프로젝트 clone**
-터미널에서 `git clone https://github.com/oy-alldev/oy-alldev.github.io.git` 명령어를 입력하여 프로젝트를 clone
+터미널에서 `git clone https://github.com/SDP3/volunteer-application.git` 명령어를 입력하여 프로젝트를 clone
 
 ----------
 ## 작업 방식 및 정보
